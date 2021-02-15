@@ -22,11 +22,7 @@ wordcloud
 numpy
 pandas
 opencv-python
-time
-re
-os
 argparse
-collections
 scipy
 dlib
 tensorflow
